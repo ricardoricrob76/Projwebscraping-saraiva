@@ -1,0 +1,19 @@
+1 - Criação o Assistente Virtual + Dialogos.
+2 - Construindo as primeiras Intensões e validando as mesmas.
+3 - Criando Intenções Importando
+Arquivo CSV
+4 -  Criando Intenções de Agendamento,
+Especialidades e Despedida
+5 - Criando Entidades
+6 - Habilitando Entidades de Sistema
+7 - Entendendo Diálogos No Watson
+Assistant
+8 - Criando Diálogo de Saudação
+9 - Criando Diálogos de Contato,
+Localização e Despedida
+10 - Criando Diálogo de Especialidades
+com Opções
+11 - Criando Diálogo para Agendamento
+de Consulta
+12 -  Vinculando o Skill ao Assistant
+
